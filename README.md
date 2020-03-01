@@ -20,6 +20,9 @@ The container and more descriptions are at my docker hub registry [jiajunsong629
 - There will be instructions about token between lines, something like `or copy and paster one of these URLs: http://9add3ac431a5:8080/?token=849b12298019e0a40d1f876b97fea2ff0b98b30de9575732`
 - On your local computer, input the corresponding URL like `ec2-55-66-77-88.us-west-2.compute.amazonaws.com/?token=some_hash`. Fill in the token and you are ready to go!
 
+### More
+The steps described above are covered in detail in this [screencast](https://www.youtube.com/watch?v=VLz5qpXlB0E&feature=youtu.be).
+
 ## Reference
 1. [How to use jupyter notebook on AWS Cloud9](https://trello.com/b/FjN4RUli/publicwiki)
 2. [Data science workflows using docker container](https://github.com/alysivji/talks/tree/master/data-science-workflows-using-docker-containers)
