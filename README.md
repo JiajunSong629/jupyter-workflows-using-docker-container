@@ -32,7 +32,7 @@ More infos about the container are at docker hub registry [jiajunsong629/jupyter
 - On your local computer, input the corresponding URL like `ec2-55-66-77-88.us-west-2.compute.amazonaws.com/?token=some_hash`. Fill in the token and you are ready to go!
 
 ### More
-Steps described above are covered in details in the demo [here](https://www.youtube.com/watch?v=VLz5qpXlB0E&feature=youtu.be).
+Steps described above are covered in details in the [screencast demo](https://www.youtube.com/watch?v=VLz5qpXlB0E&feature=youtu.be).
 
 ## Reference
 1. [How to use jupyter notebook on AWS Cloud9](https://trello.com/b/FjN4RUli/publicwiki)
