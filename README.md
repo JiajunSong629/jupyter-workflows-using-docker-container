@@ -9,7 +9,7 @@ Next project:
 [Spark jobs workflow on AWS EMR](https://github.com/JiajunSong629/AWS_EMR_Spark_Workflow)
 
 
-## jupyter-workflows-using-docker-container
+## Docker Container Project
 
 This is individual project 2 for my course, [Data Analysis At Scale in the Cloud](https://noahgift.github.io/cloud-data-analysis-at-scale/). The following describes how to maintain reproducible jupyter notebook workflows using docker container. 
 
