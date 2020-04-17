@@ -1,8 +1,18 @@
-# jupyter-workflows-using-docker-container
+# ECE 590.24 Data Analysis at Scale in the Cloud
 
-This is the repo for jupyter notebook workflows using docker container. Also, this is Project 2 for my course, [Data Analysis At Scale in the Cloud](https://noahgift.github.io/cloud-data-analysis-at-scale/).
+Previous project:
 
-The container and more descriptions are at my docker hub registry [jiajunsong629/jupyter-workflows](https://hub.docker.com/repository/docker/jiajunsong629/jupyter-workflows).
+[NEWS api on Google Cloud Platform](https://github.com/JiajunSong629/NEWS_API_on_Google_Cloud_Platform)
+
+Next project:
+[Spark jobs workflow on AWS EMR](https://github.com/JiajunSong629/AWS_EMR_Spark_Workflow)
+
+
+## jupyter-workflows-using-docker-container
+
+This is individual project 2 for my course, [Data Analysis At Scale in the Cloud](https://noahgift.github.io/cloud-data-analysis-at-scale/). The following describes how to maintain reproducible jupyter notebook workflows using docker container. 
+
+More infos about the container are at docker hub registry [jiajunsong629/jupyter-workflows](https://hub.docker.com/repository/docker/jiajunsong629/jupyter-workflows).
 
 ## How to use
 
@@ -21,7 +31,7 @@ The container and more descriptions are at my docker hub registry [jiajunsong629
 - On your local computer, input the corresponding URL like `ec2-55-66-77-88.us-west-2.compute.amazonaws.com/?token=some_hash`. Fill in the token and you are ready to go!
 
 ### More
-The steps described above are covered in detail in this [screencast](https://www.youtube.com/watch?v=VLz5qpXlB0E&feature=youtu.be).
+Steps described above are covered in details in the demo [here](https://www.youtube.com/watch?v=VLz5qpXlB0E&feature=youtu.be).
 
 ## Reference
 1. [How to use jupyter notebook on AWS Cloud9](https://trello.com/b/FjN4RUli/publicwiki)
