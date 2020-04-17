@@ -5,6 +5,7 @@ Previous project:
 [NEWS api on Google Cloud Platform](https://github.com/JiajunSong629/NEWS_API_on_Google_Cloud_Platform)
 
 Next project:
+
 [Spark jobs workflow on AWS EMR](https://github.com/JiajunSong629/AWS_EMR_Spark_Workflow)
 
 
